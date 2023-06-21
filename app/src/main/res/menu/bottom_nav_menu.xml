@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:checkableBehavior="single">
+    <item
+        android:id="@+id/home"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Home"/>
+    <item
+        android:id="@+id/map"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="Map"/>
+    <item
+        android:id="@+id/insert"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Insert"/>
+    <item
+        android:id="@+id/attractions"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="Attractions"/>
+    <item
+        android:id="@+id/record"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="Record"/>
+</menu>

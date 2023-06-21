@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AttractionCardView">
+        <attr name="title" format="string"/>
+        <attr name="experience" format="string"/>
+        <attr name="rating" format="float"/>
+        <attr name="image" format="reference"/>
+    </declare-styleable>
+</resources>
